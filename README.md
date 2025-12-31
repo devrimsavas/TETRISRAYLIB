@@ -100,14 +100,14 @@ Have fun.
 ## Screenshots
 
 ### Intro Screen
-![Intro Screen](screenshots/intro.png)
+![Intro Screen](ScreenShots/intro.png)
 
 ### Gameplay
-![Gameplay](screenshots/gameplay.png)
-![Gameplay 2](screenshots/gameplay1.png)
+![Gameplay](ScreenShots/gameplay.png)
+![Gameplay 2](ScreenShots/gameplay1.png)
 
 ### Pause Screen
-![Pause Screen](screenshots/pause.png)
+![Pause Screen](ScreenShots/pause.png)
 
 ### Game Over
-![Game Over Screen](screenshots/gameover.png)
+![Game Over Screen](ScreenShots/gameover.png)
